@@ -74,4 +74,8 @@
 
 🔗 **Conteúdo clicável abaixo** ⬇️
 
-[![Assista ao vídeo](assets/thumb.jpg)](https://youtu.be/4m1MJPwiGX0)
+[![Assista ao vídeo](assets/thumb.png)](https://youtu.be/4m1MJPwiGX0)
+
+---
+
+📄 Case completo no site da MV Dev Solutions: [https://mvdevsolutions.com.br/projetos/hand-of-lettuce](https://mvdevsolutions.com.br/projetos/hand-of-lettuce)

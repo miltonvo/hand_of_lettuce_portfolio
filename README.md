@@ -65,13 +65,19 @@
 
 ## Demonstration 📺
 
-| ![Image 1](assets/1.png) | ![Image 2](assets/2.png) | ![Image 3](assets/3.png) |
-|:------------------------:|:------------------------:|:------------------------:|
-| ![Image 4](assets/4.png) | ![Image 5](assets/5.png) | ![Image 6](assets/6.png) |
-| ![Image 7](assets/7.png) | ![Image 8](assets/8.png) | ![Image 9](assets/9.png) |
+| ![Game Lobby](assets/1.png) | ![Create Game](assets/2.png) | ![Join Game](assets/3.png) |
+| *Game Lobby* | *Create Game* | *Join Game* |
+| ![Active Game](assets/4.png) | ![Game Status](assets/5.png) | ![Winner Screen](assets/6.png) |
+| *Active Game* | *Game Status* | *Winner Screen* |
+| ![Wallet Connection](assets/7.png) | ![Transaction History](assets/8.png) | ![Leaderboard](assets/9.png) |
+| *Wallet Connection* | *Transaction History* | *Leaderboard* |
 
 ### Video Demonstration 🎥
 
 🔗 **Clickable content below** ⬇️
 
-[![Watch the video](assets/thumb.jpg)](https://youtu.be/4m1MJPwiGX0)
+[![Watch the video](assets/thumb.png)](https://youtu.be/4m1MJPwiGX0)
+
+---
+
+📄 Full case study on the MV Dev Solutions website: [https://mvdevsolutions.com.br/en/projects/hand-of-lettuce-web3-hodl-game-on-solana](https://mvdevsolutions.com.br/en/projects/hand-of-lettuce-web3-hodl-game-on-solana)
